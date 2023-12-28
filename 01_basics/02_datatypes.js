@@ -25,11 +25,12 @@ let isLoggedIn = false
 
 //object
 
-console.log(typeof "Prithvi")
-console.log(typeof 22)
-console.log(typeof false)
-console.log(typeof age)
-console.log(typeof null)
+console.log(typeof "Prithvi") // string
+console.log(typeof 22) // number
+console.log(typeof false) // boolean
+console.log(typeof age) // number 
+console.log(typeof null) // object
+console.log(typeof undefined) // undefined
 
 
 
