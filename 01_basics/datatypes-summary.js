@@ -32,4 +32,4 @@ const myfunction = function (){
     console.log("hello world");
 }
 
-console.log(typeof bigNumber);
+console.log(typeof anotherId);
