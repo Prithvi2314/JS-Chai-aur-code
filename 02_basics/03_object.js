@@ -8,7 +8,8 @@ const mySym = Symbol ("Key1")
 const JsUser =  {
     name : "Prithvi",
     "full name": " Prithvi Kamble",
-    [mySym] : "myKey1",
+    [mySym] : "myKey1",// symbol ki uper question puchte hai syntax padh lena 
+
     age : 18 ,
     location : "Hyderabad",
     email : "Prithvi@google.com",
